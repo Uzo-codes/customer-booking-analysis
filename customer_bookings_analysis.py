@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Customer Bookings Data Analysis
-Author: Uzochi Chinedu
-Description: A comprehensive data cleaning and exploratory analysis of a customer bookings dataset.
-"""
-
 # Import required libraries
 import pandas as pd
 import matplotlib.pyplot as plt
